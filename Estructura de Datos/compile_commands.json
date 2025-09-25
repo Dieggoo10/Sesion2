@@ -1,0 +1,57 @@
+[{
+  "file": "C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\Ejercicio12\\main.cpp",
+  "directory": "C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\Ejercicio12",
+  "command": "clang++ -c \"C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\Ejercicio12\\main.cpp\" -o \"C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\Ejercicio12\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\Ejemplo10\\main.cpp",
+  "directory": "C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\Ejemplo10",
+  "command": "clang++ -c \"C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\Ejemplo10\\main.cpp\" -o \"C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\Ejemplo10\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\Ejercicio7\\main.cpp",
+  "directory": "C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\Ejercicio7",
+  "command": "clang++ -c \"C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\Ejercicio7\\main.cpp\" -o \"C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\Ejercicio7\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\PasoPorReferencia\\main.cpp",
+  "directory": "C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\PasoPorReferencia",
+  "command": "clang++ -c \"C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\PasoPorReferencia\\main.cpp\" -o \"C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\PasoPorReferencia\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\PasoDeArgumentos\\main.cpp",
+  "directory": "C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\PasoDeArgumentos",
+  "command": "clang++ -c \"C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\PasoDeArgumentos\\main.cpp\" -o \"C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\PasoDeArgumentos\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\Ejercicio8\\main.cpp",
+  "directory": "C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\Ejercicio8",
+  "command": "clang++ -c \"C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\Ejercicio8\\main.cpp\" -o \"C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\Ejercicio8\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\Ejemplo9\\main.cpp",
+  "directory": "C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\Ejemplo9",
+  "command": "clang++ -c \"C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\Ejemplo9\\main.cpp\" -o \"C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\Ejemplo9\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\Ejemplo11\\main.cpp",
+  "directory": "C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\Ejemplo11",
+  "command": "clang++ -c \"C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\Ejemplo11\\main.cpp\" -o \"C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\Ejemplo11\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\Ejercicio6\\main.cpp",
+  "directory": "C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\Ejercicio6",
+  "command": "clang++ -c \"C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\Ejercicio6\\main.cpp\" -o \"C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\Ejercicio6\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\Ejercicio3\\main.cpp",
+  "directory": "C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\Ejercicio3",
+  "command": "clang++ -c \"C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\Ejercicio3\\main.cpp\" -o \"C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\Ejercicio3\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\Ejercicio5\\main.cpp",
+  "directory": "C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\Ejercicio5",
+  "command": "clang++ -c \"C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\Ejercicio5\\main.cpp\" -o \"C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\Ejercicio5\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\Ejercicio4\\main.cpp",
+  "directory": "C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\Ejercicio4",
+  "command": "clang++ -c \"C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\Ejercicio4\\main.cpp\" -o \"C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\Ejercicio4\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\Ejercicio2\\main.cpp",
+  "directory": "C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\Ejercicio2",
+  "command": "clang++ -c \"C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\Ejercicio2\\main.cpp\" -o \"C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\Ejercicio2\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\Ejercicio1\\main.cpp",
+  "directory": "C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\Ejercicio1",
+  "command": "clang++ -c \"C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\Ejercicio1\\main.cpp\" -o \"C:\\Users\\Sergio\\OneDrive\\Documentos\\Estructura de Datos\\Ejercicio1\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]
